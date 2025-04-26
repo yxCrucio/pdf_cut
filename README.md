@@ -1,2 +1,2 @@
 # pdf_cut
-a easy python app to cut pdf
+an easy python app to cut pdf
